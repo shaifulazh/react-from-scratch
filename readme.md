@@ -1,3 +1,6 @@
+This is react with type script with Flask as backend as backend. Build by me. Please to share this to humans..hehe
+
+
 
 npm install react react-dom
 npm install webpack webpack-cli webpack-dev-server --save-dev
@@ -21,3 +24,5 @@ npm install @babel/preset-env @babel/preset-react --save-dev
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 
 npm install --save-dev typescript ts-loader @types/react @types/react-dom
+
+
