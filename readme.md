@@ -1,5 +1,7 @@
 This is react with type script with Flask as backend as backend. Build by me. Please to share this to humans..hehe
-
+Ignore the npm install below unless you know what you doing. To compile this react app, use "npm install && npm run build". Compile files
+will be inside the "dist" folder.
+ 
 
 
 npm install react react-dom
