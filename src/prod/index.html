@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <link href="{{ url_for('static', filename='<%= htmlWebpackPlugin.files.css %>') }}" rel="stylesheet">
   </head>
   <body>
     <div id="root"></div>
